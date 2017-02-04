@@ -1,2 +1,2 @@
 # mathan
-Learning conent in math analysis in m- aimed to provide a better understanding for students. 
+Learning conent in math analysis 3. Aimed to provide a better understanding for students of calculus on manifolds.
